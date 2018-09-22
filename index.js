@@ -8,7 +8,7 @@ myAnimal
 
 animal = 'cat'
 
-function yourAnimal(animal) {
+function yourAnimal() {
 
   return animal
 }
