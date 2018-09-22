@@ -10,7 +10,7 @@ function yourAnimal() {
   return animal
 }
 
-yourAnimal('car')
+yourAnimal('cat')
 
 function add2(n) {
   return n + 2
