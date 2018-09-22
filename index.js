@@ -34,6 +34,11 @@ function add2(n) {
   return n + 2
 }
 
+/*
+* We return the string within the function inside
+* 'funkyFunction'
+*/
+
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
