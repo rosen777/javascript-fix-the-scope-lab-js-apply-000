@@ -1,15 +1,16 @@
-var animal = 'dog'
+
 
 function myAnimal() {
+  var animal = 'dog'
   return animal
 }
 
 myAnimal()
 
-animal = 'cat'
+
 
 function yourAnimal() {
-
+animal = 'cat'
   return animal
 }
 
