@@ -1,3 +1,7 @@
+/*
+* We declare our favorite animal inside the scope of 
+* the 'myAnimal()' function
+*/
 
 
 function myAnimal() {
@@ -7,7 +11,10 @@ function myAnimal() {
 
 myAnimal()
 
-
+/*
+* We declare your favorite animal inside the scope of 
+* the 'yourAnimal()' function
+*/
 
 function yourAnimal() {
   var animal = 'cat'
