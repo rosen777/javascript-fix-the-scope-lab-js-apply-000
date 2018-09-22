@@ -4,6 +4,7 @@ function myAnimal() {
   return animal
 }
 
+myAnimal
 
 animal = 'cat'
 
