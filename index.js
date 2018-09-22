@@ -1,6 +1,6 @@
 var animal = 'dog'
 
-function myAnimal(animal) {
+function myAnimal() {
   return animal
 }
 
@@ -10,7 +10,7 @@ function yourAnimal() {
   return animal
 }
 
-yourAnimal("dog")
+yourAnimal("cat")
 
 function add2(n) {
   return n + 2
