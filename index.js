@@ -4,7 +4,7 @@ function myAnimal() {
   return animal
 }
 
-myAnimal
+myAnimal()
 
 animal = 'cat'
 
@@ -13,7 +13,7 @@ function yourAnimal() {
   return animal
 }
 
-yourAnimal
+yourAnimal()
 
 function add2(n) {
   return n + 2
