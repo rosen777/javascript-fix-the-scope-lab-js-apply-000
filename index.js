@@ -23,11 +23,15 @@ function yourAnimal() {
 
 yourAnimal()
 
-function add2(n) {
-  return n + 2
+/*
+* In the 'add2()' function, we add 2 to n
+*/
 
-  // Feel free to move things around!
+function add2(n) {
+    // Feel free to move things around!
   const two = 2
+  
+  return n + 2
 }
 
 var funkyFunction = function() {
