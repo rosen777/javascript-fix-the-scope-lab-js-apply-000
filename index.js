@@ -5,12 +5,12 @@ function myAnimal() {
 }
 
 
+animal = 'cat'
+
 function yourAnimal(animal) {
 
   return animal
 }
-
-yourAnimal('cat')
 
 function add2(n) {
   return n + 2
